@@ -1,0 +1,2 @@
+class TareaNoEncontradaError(Exception):
+    pass
